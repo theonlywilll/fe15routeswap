@@ -48,7 +48,6 @@ def patch(version='./routeswap'):
 				# patch it
 				ips.patch(patchedfile, ipsfile)
 
-	# if it didn't find a file, stop and create a error window
 	except:
 		return 'filemissing'
 
@@ -61,7 +60,7 @@ def patch(version='./routeswap'):
 results = {
 	'filemissing': 'A file is missing. Check the vanilla folder and try again.',
 	'foldermissing': 'The \'vanilla\' folder is missing. Read the instructions and try again.',
-	'success': 'Patch applied sucefully!'
+	'success': 'Patch applied succefully!'
 }
 
 class verycoolgui:
