@@ -1,3 +1,7 @@
 __pycache__/
 patched/
 vanilla/
+dist
+build
+*.spec
+build.bat
