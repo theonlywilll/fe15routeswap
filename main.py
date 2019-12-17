@@ -66,13 +66,13 @@ results = {
 class verycoolgui:
 	def __init__(self, root):
 		self.root = root
-		root.title('FE15 route swap patcher')
+		self.root.title('FE15 route swap patcher')
 
 		self.text = 'Press the button below to start patching.'
 		self.label = Label(self.root, text = self.text)
 		self.label.pack()
 
-		self.button = Button(root, text='Patch!', command=self.doit, height=2 , width=45)
+		self.button = Button(self.root, text='Patch!', command=self.doit, height=2 , width=45)
 		self.button.pack()
 		self.root.iconbitmap(resource_path('icon.ico'))
 
@@ -82,6 +82,7 @@ class verycoolgui:
 		for x in results:
 			if thing == x:
 				self.label['text'] = results[x]
+				break
 
 
 root = Tk()
