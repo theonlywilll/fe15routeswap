@@ -42,6 +42,10 @@ After extracting the game files, search for a folder named "ExtractedRomFS". Ins
 
 Now, you can choose if you want to patch the files manually or use the automatic patcher. It is extremely recommended to use the automatic patcher provided, but both options are available.
 
+Download the patcher and IPS files here, you will need it:
+
+https://github.com/theonlywilll/fe15routeswap/releases
+
 #### 2.1 Automatic patch
 
 1. Download the patch program.
