@@ -78,7 +78,7 @@ class verycoolgui:
 
 	def doit(self):
 		self.label['text'] = 'Patching...'
-		self.label['text'] = result[patch()]
+		self.label['text'] = results[patch()]
 
 
 root = Tk()
