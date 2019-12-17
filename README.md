@@ -18,7 +18,7 @@ Due to limitations, some gameplay changes had to be made: (Other than the units)
 
 ### Notes
 
-- Weapons locks has not been changed internal-unit wise, meaning Celica (Alm's replacement) can use the Royal Sword and the Falchion, while Alm (Celica's replacement) can use the Beloved Zofia.
+- Weapons locks have been changed a bit: Celica can use the Beloved Zofia and the Royal Sword, and Alm can use the Falchion.
 
 - Passive supports, spell lists for characters aren't touched. (Of course with the exception of ranked supports, as said above)
 
