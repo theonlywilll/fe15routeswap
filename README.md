@@ -56,7 +56,7 @@ https://github.com/theonlywilll/fe15routeswap/releases
 
 4. Open the patcher, then hit "Patch!" and wait for it do be finished.
 
-5.1 If a error text appeared, revise the steps again.
+5. If a error text appeared, revise the steps again.
 
 6. Done! It now will be a folder called "patched", these contain the patched files.
 
@@ -80,29 +80,27 @@ If you want to use luma3DS (the easier way):
 
 1. Grab your folder with the patched files.
 
-1.1. Rename it "Data" if it is not named that way.
+2. Rename it "Data" if it is not named that way.
 
-2. You will need to have luma3DS installed in your 3DS.
+3. You will need to have luma3DS installed in your 3DS.
 
-3. In your SDcard, go to the folders luma/titles.
+4. In your SDcard, go to the folders luma/titles.
 
-4. If it does not exist, create a folder with the echoes title ID.
+5. If it does not exist, create a folder with the echoes title ID.
 
-Title IDs for each version of Echoes:
+	Title IDs for each version of Echoes:
 
-US: 00040000001B4000
+	US: 00040000001B4000
 
-EUR: 00040000001B4100
+	EUR: 00040000001B4100
 
-JPN: 00040000001A2B00
+	JPN: 00040000001A2B00
 
 5. Now, create a folder named "romfs" inside of it.
 
 6. Paste the "Data" folder in it.
 
-7. Make sure the luma3DS patching is enabled.
-
-7.1 To enable it, see this link: https://github.com/AuroraWright/Luma3DS/wiki/Optional-features
+7. Make sure the luma3DS patching is enabled. To enable it, see this link: https://github.com/AuroraWright/Luma3DS/wiki/Optional-features
 
 8. Done!
 
