@@ -16,6 +16,9 @@ Due to limitations, some gameplay changes had to be made: (Other than the units)
 
 - NPC Clive (now replacing Palla) has been moved a bit foward so he doesn't get stuck in a mountain.
 
+Spreadsheet with the units stats:
+
+https://docs.google.com/spreadsheets/d/1QlLOAbH81lkO3oTAC3p29Ahy9lxZ3dNS8ekBvmWqOMY/edit?usp=sharing
 ### Notes
 
 - Weapons locks have been changed a bit: Celica can use the Beloved Zofia and the Royal Sword, and Alm can use the Falchion.
