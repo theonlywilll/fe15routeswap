@@ -1,5 +1,7 @@
 # Fire Emblem Echoes: Route Swap Patch
 
+![screenshot](screenshot.bmp)
+
 This is a patch that swaps units on Alm's and Celica's route of the game. So instead of controlling Alm in act 1, you will control Celica instead.
 
 Credits to KrashBoomBang for calculating all the unit stats, and balance changes. And a big thanks to the 3DSFE ROM Hacking for helping with a lot of stuff.
