@@ -78,11 +78,7 @@ class verycoolgui:
 
 	def doit(self):
 		self.label['text'] = 'Patching...'
-		thing = patch()
-		for x in results:
-			if thing == x:
-				self.label['text'] = results[x]
-				break
+		self.label['text'] = result[patch()]
 
 
 root = Tk()
