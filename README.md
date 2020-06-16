@@ -19,6 +19,7 @@ Due to limitations, some gameplay changes had to be made: (Other than the units)
 Spreadsheet with the units stats:
 
 https://docs.google.com/spreadsheets/d/1QlLOAbH81lkO3oTAC3p29Ahy9lxZ3dNS8ekBvmWqOMY/edit?usp=sharing
+
 ### Notes
 
 - Weapons locks have been changed a bit: Celica can use the Beloved Zofia and the Royal Sword, and Alm can use the Falchion.
@@ -43,7 +44,7 @@ After extracting the game files, search for a folder named "ExtractedRomFS". Ins
 
 ### 2. Patching the files
 
-Now, you can choose if you want to patch the files manually or use the automatic patcher. It is extremely recommended to use the automatic patcher provided, but both options are available.
+Now, you can choose if you want to patch the files manually or use the automatic patcher. It's extremely recommended to use the automatic patcher provided, but both options are available.
 
 Download the patcher and IPS files here, you will need it:
 
@@ -59,13 +60,13 @@ https://github.com/theonlywilll/fe15routeswap/releases
 
 4. Open the patcher, then hit "Patch!" and wait for it do be finished.
 
-5. If a error text appeared, revise the steps again.
+5. If an error text appeared, revise the steps again.
 
-6. Done! It now will be a folder called "patched", these contain the patched files.
+6. Done! Now a folder called "patched" will appear, these contain the patched files.
 
 #### 2.2 Manual patch
 
-1. Download the patch program, it will be a folder called "routeswap".
+1. Download the patch program, inside it has a folder called "routeswap".
 
 2. Get a IPS patcher, then manually patch every file from Data with the same name as the .IPS file (ex: Person.bin.lz.ips will patch Person.bin.lz).
 
@@ -73,7 +74,7 @@ https://github.com/theonlywilll/fe15routeswap/releases
 
 ### 3. Installing it
 
-It exists two methods to use it: Repack it again, and use Luma3DS to patch your game.
+Wwo methods exist to use it: Repack it again, and use Luma3DS to patch your game.
 
 If you want to repack it to use with Citra, follow the instructions on the link mentioned above:
 
@@ -83,7 +84,7 @@ If you want to use luma3DS (the easier way):
 
 1. Grab your folder with the patched files.
 
-2. Rename it "Data" if it is not named that way.
+2. Rename it "Data" if it's not named that way.
 
 3. You will need to have luma3DS installed in your 3DS.
 
